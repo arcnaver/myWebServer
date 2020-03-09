@@ -1,0 +1,28 @@
+{
+  "name": "mywebserver",
+  "version": "1.0.0",
+  "description": "A simple webserver for nodejs",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcnaver/myWebServer.git"
+  },
+  "keywords": [
+    "nodejs",
+    "webserver"
+  ],
+  "author": "Adam Tipton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcnaver/myWebServer/issues"
+  },
+  "homepage": "https://github.com/arcnaver/myWebServer#readme"
+}
